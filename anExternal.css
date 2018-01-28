@@ -1,0 +1,16 @@
+#Header{
+	text-align: center;
+	outline-style: groove;
+	outline-color: blue;
+}
+#Left{
+	border: solid 8px yellow;
+	border-radius: 12px;
+	width: 400px;
+	text-align: center;
+	float: left;
+}
+
+#Right{
+	float: right;
+}
